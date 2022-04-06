@@ -1,5 +1,5 @@
 
-/* SPECIAL TLDS */
+/* MAIN */
 
 const tlds = ['example', 'invalid', 'local', 'localhost', 'onion', 'test'];
 
