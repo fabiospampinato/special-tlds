@@ -2,6 +2,7 @@
   "name": "special-tlds",
   "repository": "github:fabiospampinato/special-tlds",
   "description": "List of special-use ICANN TLDs.",
+  "license": "MIT",
   "version": "2.0.0",
   "type": "module",
   "main": "dist/index.js",
@@ -20,7 +21,7 @@
     "special"
   ],
   "devDependencies": {
-    "tsex": "^3.0.1",
-    "typescript": "^5.1.6"
+    "tsex": "^4.0.2",
+    "typescript": "^5.7.3"
   }
 }
